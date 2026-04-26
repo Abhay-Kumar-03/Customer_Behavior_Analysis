@@ -1,6 +1,13 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
 <img width="1920" height="984" alt="CBD1" src="https://github.com/user-attachments/assets/aab1f4b5-612c-4a84-aceb-c4ea3a9a1943" />
+<img width="1920" height="981" alt="CBD2" src="https://github.com/user-attachments/assets/15184894-74f3-4941-9062-38768185e874" />
+<img width="1920" height="973" alt="CBD3" src="https://github.com/user-attachments/assets/6b90de63-3c66-4d00-b15d-56c7c5f47f7e" />
+<img width="1920" height="974" alt="CBD4" src="https://github.com/user-attachments/assets/b8a5d9d1-daff-404a-bee1-c24fb79b63d1" />
+<img width="1920" height="981" alt="CBD5" src="https://github.com/user-attachments/assets/f16e20aa-5ee8-4db2-94d0-921ec6daee82" />
+<img width="1920" height="982" alt="CBD6" src="https://github.com/user-attachments/assets/2ebbc94c-dd7e-4683-8292-9e2e80ecda0d" />
+
+
 
 
 
