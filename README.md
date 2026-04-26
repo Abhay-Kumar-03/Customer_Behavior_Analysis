@@ -1,6 +1,7 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-    <img width="1920" height="984" alt="CBD1" src="https://github.com/user-attachments/assets/4345ab71-f536-40cf-b10d-8f454883d56a" />
+<img width="1920" height="984" alt="CBD1" src="https://github.com/user-attachments/assets/aab1f4b5-612c-4a84-aceb-c4ea3a9a1943" />
+
 
 
 > End-to-end data analytics project covering Python, SQL Server, Power BI, and business reporting  
