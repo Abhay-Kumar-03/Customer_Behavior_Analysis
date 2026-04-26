@@ -127,7 +127,7 @@ Power BI Desktop
 
 ### Step 1 — Clone the repo
 ```bash
-git clone https://github.com/your-username/customer-shopping-analysis.git
+git clone https://github.com/Abhay-Kumar-03/Customer_Behavior_Analysis.git
 cd customer-shopping-analysis
 ```
 
