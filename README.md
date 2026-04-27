@@ -199,4 +199,4 @@ Aspiring Data Analyst | Python · SQL · Power BI ·Excel
 
 ---
 
-*This project was built as part of a data analytics portfolio targeting roles in business intelligence and data consulting.*
+
