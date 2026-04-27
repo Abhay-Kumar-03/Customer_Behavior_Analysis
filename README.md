@@ -1,5 +1,13 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
+## 📌 Overview
+
+This project analyzes retail customer shopping behavior to uncover revenue patterns, customer segments, and product performance. The goal is to generate actionable business recommendations that help improve subscriptions, loyalty, and targeted marketing.
+
+The project follows a full analytics workflow — from raw data ingestion to a polished Power BI dashboard and executive presentation.
+
+---
+
 # DASHBOARD 
 <img width="1920" height="984" alt="CBD1" src="https://github.com/user-attachments/assets/aab1f4b5-612c-4a84-aceb-c4ea3a9a1943" />
 
@@ -22,13 +30,7 @@
 
 ---
 
-## 📌 Overview
 
-This project analyzes retail customer shopping behavior to uncover revenue patterns, customer segments, and product performance. The goal is to generate actionable business recommendations that help improve subscriptions, loyalty, and targeted marketing.
-
-The project follows a full analytics workflow — from raw data ingestion to a polished Power BI dashboard and executive presentation.
-
----
 
 ## 📂 Dataset
 
